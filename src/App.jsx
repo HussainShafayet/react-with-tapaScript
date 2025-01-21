@@ -1,12 +1,11 @@
+import Demo from "./components/Demo"
 
 
 function App() {
 
   return (
     <>
-      <div>
-        Hello React
-      </div>
+      <Demo />
     </>
   )
 }
